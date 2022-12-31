@@ -1,15 +1,15 @@
 {
     "name": "PasteBin Bot",
-    "description": "PasteBin Telegram Bot made in python.",
+    "description": "PasteBin Telegram Bot.",
     "logo": "https://telegra.ph/file/edb413782213f971ac8d8.jpg",
     "keywords": [
         "Telegram",
         "PasteBin",
         "Python"
     ],
-    "repository": "https://github.com/buddhhu/PasteBin-Bot",
-    "website": "t.me/BotsRealm",
-    "success_url": "t.me/BotsRealm",
+    "repository": "https://github.com/",
+    "website": "t.me/rebootALT",
+    "success_url": "t.me/rebootALT",
     "env": {
         "API_ID": {
             "description": "Your api id, from my.telegram.org",
@@ -40,7 +40,7 @@
     },
     "buildpacks": [
         {
-            "url": "https://github.com/heroku/heroku-buildpack-python"
+            "url": "https://github.com/"
         }
     ]
 }
